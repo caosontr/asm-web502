@@ -1,0 +1,207 @@
+{
+  "products": [
+    {
+      "title": "Samsung Galaxy S23 Ultra 5G 256GB",
+      "description": "Samsung Galaxy S23 Ultra sở hữu thiết kế sang trọng với màn hình 6.8 inch, tấm nền Dynamic AMOLED 2X tần số quét 120Hz. Hiệu năng của máy được cải tiến mạnh mẽ hơn nhờ bộ chip Snapdragon 8 Gen 2. Đặc biệt, S23 Ultra là chiếc điện thoại flagship đầu tiên sở hữu camera chính 200MP. Điều này giúp thiết bị có khả năng chụp ảnh đỉnh cao trong nhiều điều kiện ánh sáng khác nhau. ",
+      "brand": "Samsung",
+      "price": "16790000",
+      "thumbnail": "https://didongmoi.com.vn/upload/images/product/samsung/samsung-galaxy-s23-ultra-5g-han-3.jpg",
+      "id": "1"
+    },
+    {
+      "title": "iPhone 15 Pro Max 256GB",
+      "thumbnail": "https://didongmoi.com.vn/upload/images/product/apple/iphone-15-pro-max-chinh-hang-4.jpg",
+      "brand": "Apple",
+      "price": "26290000",
+      "description": "iPhone 15 Pro Max 256GB là sản phẩm cao nhất thuộc dòng iPhone 15 Series. Máy sở hữu thiết kế mỏng nhẹ, tinh tế nhưng không kém phần sang trọng đi kèm cấu hình mạnh mẽ nhất trên thị trường hiện nay. Màn hình LTPO Super Retina XDR OLED 6.7 inch giúp mang đến những thước phim sống động với trải nghiệm thú vị. Bên cạnh đó, khả năng nhiếp ảnh của máy cũng được đánh giá cao nhờ camera chính lên đến 48MP và là sản phẩm duy nhất được trang bị ống kính tiềm vọng mới, có khả năng zoom quang học lên đến 5-6x. Thời lượng pin của máy được nâng cấp đáng kẻ, bạn có thể sử dụng liên tục trong 29 giờ với các tác vụ tổng hợp",
+      "id": "QbRT7oL"
+    },
+    {
+      "title": "Samsung Galaxy Z Fold5 512GB",
+      "description": "Samsung Galaxy Z Fold 5 vẫn sở hữu kiểu dáng và thiết kế cao cấp như những thế hệ tiền nhiệm. Máy được trang bị chip Snapdragon 8 Gen 2 mạnh mẽ, bộ nhớ RAM 12GB và ống kính camera chính lên đến 50MP. Ngoài ra, thiết bị cũng có thỏi pin ấn tượng với dung lượng 4.400 mAh giúp bạn thoải mái sử dụng cả ngày dài. Các cải tiến so với Galaxy Z Fold 4:",
+      "brand": "Samsung",
+      "price": "27590000",
+      "thumbnail": "https://didongmoi.com.vn/upload/images/product/samsung/samsung-galaxy-z-fold5-gia-re-3.jpg",
+      "id": "4"
+    },
+    {
+      "title": "Huawei P30",
+      "description": "Huawei’s re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK.",
+      "brand": "Huawei",
+      "price": 499,
+      "thumbnail": "https://cdn2.cellphones.com.vn/x/media/catalog/product/e/l/elle_aurora_rear_rgb-500x500-_2__1.png",
+      "id": "5"
+    },
+    {
+      "title": "MacBook Pro 13 inch M2 2022 8GB",
+      "thumbnail": "https://didongmoi.com.vn/upload/images/product/san-pham-khac/macbook-pro-13-m2-2022-8gb-256gb(2).jpg",
+      "brand": "Apple",
+      "price": "31090000",
+      "description": "MacBook Pro M2 2020 có thiết kế nhỏ gọn, mỏng nhẹ giúp việc di chuyển linh hoạt hơn. Hiệu năng xử lý mạnh mẽ nhờ chip Apple M2 cùng thời lượng pin sử dụng lên đến 20 giờ. Sản phẩm là máy mới 100% Fullbox chính hãng, đầy đủ phụ kiện từ Apple. Hỗ trợ bảo hành 12 tháng theo đúng chính sách, 1 đổi 1 trong thời gian đầu sử dụng nếu có lỗi kỹ thuật.",
+      "id": "BDkpUVH"
+    },
+    {
+      "title": "MacBook Air M2 13.6 inch 2022 8GB",
+      "thumbnail": "https://didongmoi.com.vn/upload/images/product/apple/apple-macbook-air-m2-2022(2).jpg",
+      "brand": "Apple",
+      "price": "25490000",
+      "description": "Macbook Air M2 2022 sở hữu thiết kế mỏng nhẹ, thời thượng với chất liệu nhôm nguyên khối. Con chip M2 mạnh mẽ hơn bao giờ hết mang đến sức mạnh vượt trội hơn so với các dòng máy tính Windows. Máy là sản phẩm chính hãng Apple, Fullbox, đầy đủ cáp sạc, bảo hành 12 tháng theo chính sách. Hàng luôn có sẵn tại showroom, giao hàng trên toàn quốc.",
+      "id": "0AL0r2E"
+    },
+    {
+      "title": "iPad Pro M1 12.9 inch 128GB Wifi (2021)",
+      "thumbnail": "https://didongmoi.com.vn/upload/images/product/tablet/prom1-xam-min.jpg",
+      "brand": "Apple",
+      "price": "24390000",
+      "description": "iPad Pro M1 2021 12.9 inch là mẫu máy tính bảng cực HOT ở thời điểm hiện tại. Máy được trang bị bộ chip M1 cực kỳ mạnh mẽ và cụm camera cực đỉnh đi kèm cảm biến LiDAR mới nhất. Máy Fullbox nguyên seal chưa active, đảm bảo chính hãng từ Apple. Hỗ trợ phần mềm trọn đời, luôn có sẵn hàng tại showroom",
+      "id": "ISDMXr3"
+    },
+    {
+      "title": "Máy tính bảng Samsung Galaxy Tab S9 Ultra 5G ",
+      "thumbnail": "https://didongmoi.com.vn/upload/images/product/tablet/samsung-galaxy-tab-s9-ultra-gia-re-1.jpg",
+      "brand": "Samsung",
+      "price": "22490000",
+      "description": "Samsung Galaxy Tab S9 Ultra có thiết kế hiện đại và sang trọng với hai mặt trước sau được làm phẳng. Máy có kích thước lớn nhất trong bộ ba với màn hình lên đến 14.6 inch, và tần số quét 120 Hz. Ngoài ra, Tab S9 Ultra cũng sở hữu bộ chip Qualcomm Snapdragon 8 Gen 2 đi kèm dung lượng RAM và bộ nhớ trong lớn. Đặc biệt, viên pin 11.200 mAh là một ưu điểm lớn, giúp bạn thoải mái sử dụng thiết bị suốt ngày dài. Máy chính hãng Samsung Việt Nam nguyên seal, bảo hành 12 tháng và hỗ trợ phần mềm trọn đời.",
+      "id": "pjuB1Sy"
+    },
+    {
+      "title": "Loa Bluetooth Marshall Woburn 3 (Chính hãng)",
+      "thumbnail": "https://didongmoi.com.vn/upload/images/product/san-pham-khac/loa-bluetooth-marshall-woburn-3.jpg",
+      "brand": "Marshall",
+      "price": "6890000",
+      "description": "Loa Marshall Woburn 3 sở hữu công suất ấn tượng lên đến 150W cùng tần số 35-20kHz mang đến khả năng tái tạo âm thanh hoàn hảo, có thể phát đa dạng thể loại nhạc. Chất âm ấn tượng đầy lôi cuốn, đồng thời được chế tác từ chất liệu thân thiện với môi trường làm hài lòng người tiêu dùng.",
+      "id": "TEvGLnw"
+    },
+    {
+      "title": "Loa Bluetooth tích hợp trợ lý ảo Harman Kardon Citation 500 Chính hãng",
+      "thumbnail": "https://didongmoi.com.vn/upload/images/product/san-pham-khac/loa-bluetooth-harman-kardon-citation-500.jpg",
+      "brand": "Harman Kardon",
+      "price": "13490000",
+      "description": "Citation 500 là phiên bản hoàn thiện mới nhất của dòng loa Bluetooth từ Harman Kardon. Với công suất 200W, âm thanh của loa trở nên sống động và mạnh mẽ. Thiết kế tinh tế, cùng với sự cải tiến về cấu trúc âm học và 4 củ loa bên trong, Citation 500 mang đến trải nghiệm nghe nhạc hoàn hảo.\nĐặc biệt, loa hỗ trợ Google Assistant, cho phép bạn điều khiển mọi thứ chỉ bằng giọng nói. Dễ dàng yêu cầu dừng/ phát nhạc, gợi ý bài hát, và quản lý toàn bộ hệ thống loa Citation trong nhà.",
+      "id": "w5fzqrr"
+    },
+    {
+      "title": "Loa Bluetooth JBL Xtreme 3 Chính hãng",
+      "thumbnail": "https://didongmoi.com.vn/upload/images/product/san-pham-khac/loa-jbl-xtreme-3(1).jpg",
+      "brand": "JBL",
+      "price": "5390000",
+      "description": "Loa Bluetooth JBL Xtreme 3 được thiết kế chắc chắn với kích thước nhỏ gọn, thoải mái và tiện lợi khi di chuyển. Loa sở hữu thời lượng pin đáng kinh ngạc khi có thể kéo dài đến 15 giờ nghe nhạc liên tục. Ngoài ra, JBL Xtreme 3 còn sở hữu công nghệ Bluetooth 5.1, tiêu chuẩn chống nước IP67, công suất lên đến 50W mang đến cho bạn trải nghiệm âm thanh bùng cháy.",
+      "id": "iVYJNVL"
+    },
+    {
+      "title": "Loa Bluetooth HiFuture Gravity 45W (Di động, Chống nước IPX7, Bluetooth 5.3)",
+      "thumbnail": "https://didongmoi.com.vn/upload/images/product/san-pham-khac/loa-bluetooth-hifuture-gravity-45w-1.jpg",
+      "brand": "HiFuture ",
+      "price": "1690000",
+      "description": "HiFuture Gravity - Âm thanh hiện đại mạnh mẽ. Trang bị 2 loa Woofer và Tweeter stereo độc lập với tổng công suất 45W, mang đến âm thanh chi tiết, bass chắc nịch và treble sắc nét. Tích hợp chức năng TWS cho âm thanh kép hoàn hảo, kết nối nhanh chóng với Bluetooth 5.3 tiết kiệm pin. Đèn LED RGB tạo không gian vui vẻ, và khả năng chống nước, bụi IPX7 cho sử dụng trong mọi môi trường. HiFuture Gravity - Đồng hành hoàn hảo cho âm nhạc của bạn.",
+      "id": "vTq6RbT"
+    }
+  ],
+  "users": [
+    {
+      "email": "linhtv@sphinx-software.com",
+      "password": "$2a$10$sLPCHchZwDRL5TFQG9cbe.0jfOyWpvbLzvw.ctZD5AbptckjGZDv.",
+      "id": 1
+    },
+    {
+      "email": "phongtq.hb+2@gmail.com",
+      "password": "$2a$10$QRl1.sPDgV7dMTKpZ97RtOWZ6ifDcnmfqxXDaT1W.mQHpSkxIZGae",
+      "id": 2
+    },
+    {
+      "email": "tuhd.sphinxsoftware@gmail.com",
+      "password": "$2a$10$Cu7TKji22dMGnIRIXCpqjOnO1F0J8HVPPO64a.q9EEudxjYld5Rzq",
+      "id": 3
+    },
+    {
+      "email": "phongtq.hb+1@gmail.com",
+      "password": "$2a$10$b2T9HPa2gisAHEuprC6SYutneTcllXLVBUnrmfrJ.g4I.IRkhSC2W",
+      "id": 4
+    },
+    {
+      "email": "phongtq.hb2+1@gmail.com",
+      "password": "$2a$10$dDuP8/6alz7z1KYnizKE2OXQcIQBI83tajaevFBG7NDIwB2hWXX42",
+      "id": 5
+    },
+    {
+      "email": "phongtq.hb2+1@gmail.com22",
+      "password": "$2a$10$qrDD/n2xgNccqk/DzHXkze3xahMTCMr3jU8QlL5R6Ma0isnl/Sokm",
+      "id": 6
+    },
+    {
+      "email": "phongtq.hb2+1@gmail.com2222",
+      "password": "$2a$10$5z2TiKwwTGvdYI28e/40LeS53Sg6/BQ0UX1HzrsiNhXYeka8IapQi",
+      "id": 7
+    },
+    {
+      "email": "phongtq.hb+1@gmail.com22",
+      "password": "$2a$10$78Ulx0OAfGPdaP8tWNzVeOMZt79mBIjSQZbGcr83AEp0WM1j1vFHe",
+      "id": 8
+    },
+    {
+      "email": "phongtq.hb+1@gmail.com22111222",
+      "password": "$2a$10$yZq4R0QP0mseJnhgplBY0O0c0ckTHJaxT0HH6NbgXB/0JJ6HkmfxG",
+      "id": 9
+    },
+    {
+      "email": "phongtq.hb+1@gmail.com13",
+      "password": "$2a$10$tsAw2m7TOBZKhcWXat2wrO/iq.bjJfbuaBgHJRJ4s7k8DQe12vi0S",
+      "id": 10
+    },
+    {
+      "email": "caosontr@gmail.com",
+      "password": "$2a$10$Jb8YJZSPgo2b5ju7X.NiveVdpH51GKiYw9z71BrRIyaGgpOPxCGJ2",
+      "id": 11
+    },
+    {
+      "email": "admin@gmail.com",
+      "password": "$2a$10$K7Oi4Do1S1MlVuzb8C6/mO02TrMZB61QPQnLeVxkY99fd9CGhiHSq",
+      "id": 12
+    },
+    {
+      "email": "admin1@gmail.com",
+      "password": "$2a$10$WcQN.hDGzcmpSupaHtrrwOdvzxmukxCw.CFgHriCWzlgugy2P3Yie",
+      "id": 13
+    },
+    {
+      "email": "admin2@gmail.com",
+      "password": "$2a$10$NORMn13BJH/YmIp1PeaEwuJgE14wiyR4vUFjcXd4gpQnktAnKCD4C",
+      "id": 14
+    },
+    {
+      "email": "kaoxown@gmail.com",
+      "password": "$2a$10$ovTUlzzKPPSALJqoeJEkF.ZBgnnVTuvOQZuiUMgOpC5wYvoVQp0j6",
+      "id": 15
+    },
+    {
+      "email": "caosont1r@gmail.com",
+      "password": "$2a$10$po.39uan1nbg/Hidn9kzOOMVN/pj8B1j5u6/ZFsr4Vg1BQUIxNqha",
+      "id": 16
+    },
+    {
+      "email": "a@gmail.com",
+      "password": "$2a$10$Po1n71CEtJo1gpdh3qbVj.Ir/9yA8O27orPNpCu0QmUqnr3LUorkG",
+      "id": 17
+    },
+    {
+      "email": "1a@gmail.com",
+      "password": "$2a$10$srH8hEfKQ88E42Z6J7T1HeK3IHDh3GJqaC/YUyCWp7KLuMp01fozu",
+      "id": 18
+    },
+    {
+      "email": "sontcph33798@fpt.edu.vn",
+      "password": "$2a$10$8gMZPlwRBQfuMmOdFmyaUe4JsPEyutobBQdrDXqL1Hpt7U9Wq.33G",
+      "id": 19
+    },
+    {
+      "email": "sontcph33798@fpt.edu.vn1",
+      "password": "$2a$10$sTCgD5Dpm4nUSW1ADIQb7OYPn/shgog4qFCruSoUbE25dKi6JzqCu",
+      "id": 20
+    },
+    {
+      "email": "1a@gmail.com1",
+      "password": "$2a$10$jSD1PF9u/KWGpeKXi0SaiuDvY5fnKqxqCM8UhpqiJidJX490h00M2",
+      "id": 21
+    }
+  ]
+}
